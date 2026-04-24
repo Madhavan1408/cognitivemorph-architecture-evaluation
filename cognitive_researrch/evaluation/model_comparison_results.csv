@@ -1,0 +1,6 @@
+Rank,Model,accuracy_score,adaptation_score,task_success_rate,relational_learning_score,collaboration_efficiency,Mean Score
+1,CognitiveMorph,0.9133,0.9208,0.9444,0.9437,0.8989,0.9242
+2,GNN,0.8482,0.7003,0.7947,0.874,0.6378,0.771
+3,Transformer,0.8447,0.7268,0.8118,0.7288,0.6664,0.7557
+4,RL,0.7824,0.8198,0.7815,0.6372,0.628,0.7298
+5,Symbolic,0.606,0.519,0.6067,0.6028,0.5433,0.5756
